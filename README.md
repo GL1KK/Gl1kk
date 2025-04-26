@@ -1,1 +1,1 @@
-username_bot: @Gl1kktgBot, tg: https://t.me/programisticDanya, 
+username_bot: @Gl1kktgBot, hi)
